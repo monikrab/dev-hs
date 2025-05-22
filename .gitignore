@@ -1,8 +1,5 @@
-# Ignore files with no extension
-*.
-
-# Ignore Haskell interface files
-*.hi
-
-# Ignore object files
-*.o
+*
+!/src/
+!LICENSE
+!*.hs
+!*.md
