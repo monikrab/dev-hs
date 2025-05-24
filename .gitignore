@@ -1,6 +1,6 @@
 *
-!/src/
-!/site/
+!site/
+!src/
 !LICENSE
 !*.hs
 !*.md
