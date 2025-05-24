@@ -1,4 +1,6 @@
 *
+!site/
+!src/
 !site/*
 !src/*
 !LICENSE
